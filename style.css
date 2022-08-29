@@ -5,7 +5,7 @@
     text-decoration: none;
 }
 body{
-    background-color: rgb(165, 228, 253);
+    background-image: linear-gradient(to right top, #a5e4fd, #8dedfc, #7cf4f1, #7dfadd, #92fec1);
     font-family: 'Mukta', 'Poppins', Arial, Helvetica, sans-serif ;
 }
 .container{
