@@ -6,6 +6,8 @@
 }
 body{
     background-image: linear-gradient(to right top, #a5e4fd, #8dedfc, #7cf4f1, #7dfadd, #92fec1);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
     font-family: 'Mukta', 'Poppins', Arial, Helvetica, sans-serif ;
 }
 .container{
